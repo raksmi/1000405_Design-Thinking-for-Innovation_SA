@@ -170,9 +170,13 @@ CareFlow AI goes beyond traditional hospital systems by combining empathy, techn
 
 ##  Credits
 
-**Raksmi Priyasree**
-IBCP – Artificial Intelligence
+Created by: M.Raksmi Priyasree (ID: 1000405)
 
+Class: Artificial Intelligence: Design Thinking for innovation– Year 1
+
+Mentor: Syed Ali Beema.S
+
+School: Jain Vidyalaya IB world school, Madurai
 
 
 ## Final Note
