@@ -1,4 +1,4 @@
-# 🖤 CareFlow AI – Transforming Hospital Waiting Experience
+#  CareFlow AI – Transforming Hospital Waiting Experience
 
 ## 📌 Project Overview
 
@@ -8,7 +8,7 @@ This project applies **Design Thinking principles** to solve real-world problems
 
 ---
 
-## 🎯 Objective
+##  Objective
 
 To reduce patient anxiety and uncertainty during hospital waiting by providing:
 
@@ -16,9 +16,9 @@ To reduce patient anxiety and uncertainty during hospital waiting by providing:
 * Immersive relaxation experiences
 * Emotional and mental wellness support
 
----
 
-## 🧠 Design Thinking Process
+
+##  Design Thinking Process
 
 ### 1. Empathize
 
@@ -27,12 +27,12 @@ To reduce patient anxiety and uncertainty during hospital waiting by providing:
 * Collected real user insights on waiting experiences
 
 🔗 **Survey Form Link:**
-[Add your Microsoft Form link here]
+https://forms.office.com/r/sn4v0HmDSb 
 
 🔗 **Response Sheet Link:**
-[Add your response sheet link here]
+https://docs.google.com/spreadsheets/d/13DCTbJkuiLBU5LD__WYPL_h8dNT3Yctw0qihEmpp0QY/edit?usp=sharing 
 
----
+
 
 ### 2. Define
 
@@ -40,11 +40,11 @@ To reduce patient anxiety and uncertainty during hospital waiting by providing:
 
 > How might we reduce anxiety and uncertainty for patients in hospital waiting areas by creating a calm, engaging, and informative experience?
 
----
+
 
 ### 3. Ideate
 
-#### 💡 Core Features
+####  Core Features
 
 * Queue Progress Tracker (real-time updates)
 * Distraction Hub (videos, games, content)
@@ -52,7 +52,7 @@ To reduce patient anxiety and uncertainty during hospital waiting by providing:
 * Mood-Based Interaction
 * Feedback System
 
-#### 🚀 Innovative Features
+####  Innovative Features
 
 * 🤖 AI Emotion Detection (personalized suggestions)
 * 🌈 AR Relaxation Mode
@@ -60,16 +60,16 @@ To reduce patient anxiety and uncertainty during hospital waiting by providing:
 * 🌍 Language Assistance
 * 🎶 Smart Audio Therapy
 
----
+
 
 ### 4. Prototype
 
 The prototype simulates a complete user journey from login to feedback.
 
 🔗 **Prototype Link:**
-[Add your Figma link here]
+https://femur-robe-44303544.figma.site/login 
 
-#### 📱 Key Screens
+####  Key Screens
 
 * Login Page (Name + Token Number)
 * Home Dashboard (stress level + queue info)
@@ -82,11 +82,11 @@ The prototype simulates a complete user journey from login to feedback.
 * Notification System
 * Feedback Screen
 
----
 
-## 🌈 AR & VR Experience
 
-### 🎧 VR Immersive Environments
+##  AR & VR Experience
+
+###  VR Immersive Environments
 
 * Ocean Sunset 🌅
 * Forest Sanctuary 🌿
@@ -95,16 +95,16 @@ The prototype simulates a complete user journey from login to feedback.
 * Zen Garden 🧘‍♀️
 * Space Station 🌌
 
-### 🌿 AR Relaxation Features
+###  AR Relaxation Features
 
 * AR Breathing Guide
 * Floating Affirmations
 * Stress Visualizer
 * AR Pet Companion
 
----
 
-## 🎮 Interactive Features
+
+##  Interactive Features
 
 * 🔊 Sound effects for button interactions
 * 🎵 Relaxing music playlists
@@ -115,72 +115,66 @@ The prototype simulates a complete user journey from login to feedback.
 * 🙏 Gratitude reflection prompts
 * 💬 Patient-to-patient chat
 
----
 
-## 📊 Smart Features
+
+## Smart Features
 
 * Real-time queue tracking
 * Appointment details (date, doctor, location)
 * Health records (heart rate, BP, oxygen level)
 * Smart notifications (“You are next”)
 
----
 
-## 🧪 Testing & Feedback
+
+##  Testing & Feedback
 
 * Tested with 6 users
 * Users found the app calming and easy to use
 * Queue tracking reduced anxiety
 * VR/AR features improved engagement
 
-💬 Sample Feedback:
 
-> “The VR feature made waiting feel less stressful.”
-> “Queue tracking helped me stay relaxed.”
-> “The app feels comforting and easy to use.”
 
----
-
-## 🛠 Tools Used
+##  Tools Used
 
 * Figma (Prototype Design)
 * Canva (Presentation)
 * Microsoft Forms (Survey)
 
----
 
-## 📸 Screenshots & Resources
+
+##  Screenshots & Resources
 
 🔗 **Survey Form Link:**
-[Add your storyboard link here]
+https://forms.office.com/r/sn4v0HmDSb 
 
 🔗 **Response Sheet Link:**
-[Add your storyboard link here]
+https://docs.google.com/spreadsheets/d/13DCTbJkuiLBU5LD__WYPL_h8dNT3Yctw0qihEmpp0QY/edit?usp=sharing 
 
 🔗 **Storyboard Link:**
-[Add your storyboard link here]
+https://canva.link/v3h9e2ouj3b6bfh 
 
 🔗 **Screenshots Link:**
-[Add your screenshots link here]
+https://drive.google.com/file/d/1-Klpe8KbIoBchTuvZoFzP8AY7djIQdnQ/view?usp=sharing 
 
 🔗 **Prototype Link:**
-[Add your storyboard link here]
+https://femur-robe-44303544.figma.site/login 
 
----
 
-## 🎤 Conclusion
+
+## Conclusion
 
 CareFlow AI goes beyond traditional hospital systems by combining empathy, technology, and immersive design to improve patient well-being.
 
----
 
-## ✨ Author
+
+##  Credits
 
 **Raksmi Priyasree**
 IBCP – Artificial Intelligence
 
----
 
-## 💖 Final Note
+
+## Final Note
 
 > “Design is not just what it looks like, but how it makes people feel.”
